@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		13A6EEA42D2ED28F00ACE843 /* New Folder */ = {
+		13A6EED12D2ED53D00ACE843 /* Country Flag Game */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "New Folder";
+			path = "Country Flag Game";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,8 +32,8 @@
 		13A6EE892D2ED16100ACE843 = {
 			isa = PBXGroup;
 			children = (
-				13A6EEA42D2ED28F00ACE843 /* New Folder */,
 				13A6EE932D2ED16100ACE843 /* Products */,
+				13A6EED12D2ED53D00ACE843 /* Country Flag Game */,
 			);
 			sourceTree = "<group>";
 		};
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				13A6EEA42D2ED28F00ACE843 /* New Folder */,
+				13A6EED12D2ED53D00ACE843 /* Country Flag Game */,
 			);
 			name = "Country Flag Game";
 			packageProductDependencies = (
