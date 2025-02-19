@@ -10,8 +10,12 @@ import SwiftUI
 struct Data {
     let countries = [
         "Angola",
+        "Afganistan",
         "Austria",
+        "Canada",
         "China",
+        "Cuba",
+        "Egypt",
         "England",
         "Estonia",
         "France",
@@ -20,6 +24,7 @@ struct Data {
         "India",
         "Isreal",
         "Italy",
+        "Japan",
         "Norway",
         "Pakistan",
         "Peru",

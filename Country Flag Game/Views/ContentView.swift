@@ -13,10 +13,10 @@ struct ContentView: View {
         NavigationView {
             VStack(spacing: 40) {
                 VStack(spacing: 30) {
-                    Text("CFG")
+                    Text("Country Flag Game")
                         .font(.title)
                         .fontWeight(.heavy)
-                    Text("Ready To Test Your Skills?")
+                    Text("How well do you know the flags?")
                 }
                 NavigationLink {
                     QuestionView()
